@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="11.933" tests="3" skipped="0" failures="0" errors="0">
+<testcase classname="To verify organeHRM webpage demo site" name="To validate organehrm login page - Example #1.1" time="3.704">
+<system-out><![CDATA[
+Given User should enter url.................................................passed
+When User should enter the "Admin" and "admin123"...........................passed
+]]></system-out>
+</testcase>
+<testcase classname="To verify organeHRM webpage demo site" name="TO validate organehrm my infor" time="2.016">
+<system-out><![CDATA[
+When user name should enter the Personal Details,fristname,lastname,nickname.passed
+]]></system-out>
+</testcase>
+<testcase classname="To verify organeHRM webpage demo site" name="To validate organehrm admin" time="6.009">
+<system-out><![CDATA[
+When user name should enter the admin infor.................................passed
+]]></system-out>
+</testcase>
+</testsuite>
